@@ -4,6 +4,7 @@ description: A technology blog covering topics from C programming to the Segfaul
 baseurl: "/IsmaelMoreiraKt"
 url: "https://ismoreirakt.github.io/IsmaelMoreiraKt"
 github_username: IsMoreiraKt
+author: Ismael Moreira
 
 theme: minima
 
