@@ -16,7 +16,7 @@ Claro que nem só de código vive a programação. Outras áreas como matemátic
 
 Também há espaço para formatos diferentes. Os "Rants" e as "Reflexões" são textos mais soltos e pessoais. Ocasionalmente, poderás encontrar "Cursos" completos, que agregam um tema num único post ou "Whitepapers" com pesquisas mais densas.
 
-A intenção é publicar com regularidade, mesmo que o ritmo varie. A meta é simples: deixar registado o que aprendo e, com sorte, produzir algo que possa ser útil para quem cair aqui.  
+A intenção é publicar com regularidade, mesmo que o ritmo varie. A meta é simples: deixar registado o que aprendo e, com sorte, produzir algo que possa ser útil para quem cair aqui.
 
 Por hoje é tudo,
 
